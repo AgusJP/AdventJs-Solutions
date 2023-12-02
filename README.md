@@ -2,8 +2,8 @@
 
 ## 24 retos de código • <a href="https://adventjs.dev">adventJS</a> 🚀 [![adventJS](https://img.shields.io/badge/adventJS-fbbf24?style=flat-square&logo=JavaScript&logoColor=000000)](https://adventjs.dev)
 
-<p align="center"> 
-  <img src=[https://i.imgur.com/mOUN7uE.png](https://adventjs.dev)](https://adventjs.dev/es)>
+<p> 
+  <img src=https://i.imgur.com/mOUN7uE.png>
 </p>
 
 ### 🕹️ Retos
