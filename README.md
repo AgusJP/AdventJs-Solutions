@@ -23,6 +23,12 @@
       <td>Fácil</td>
       <td><a href="https://adventjs.dev/es/challenges/2023/1" target="_blank">Ver</a></td>
     </tr>
+    <tr>
+      <td>02</td>
+      <td>Ponemos en marcha la fábrica</td>
+      <td>Fácil</td>
+      <td><a href="https://adventjs.dev/es/challenges/2023/2" target="_blank">Ver</a></td>
+    </tr>
   </tbody>
 </table>
 
