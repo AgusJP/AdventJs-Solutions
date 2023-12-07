@@ -29,6 +29,12 @@
       <td>Fácil</td>
       <td><a href="https://adventjs.dev/es/challenges/2023/2" target="_blank">Ver</a></td>
     </tr>
+    <tr>
+      <td>03</td>
+      <td>El elfo travieso</td>
+      <td>Fácil</td>
+      <td><a href="https://adventjs.dev/es/challenges/2023/3" target="_blank">Ver</a></td>
+    </tr>
   </tbody>
 </table>
 
