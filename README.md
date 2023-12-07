@@ -35,6 +35,18 @@
       <td>Fácil</td>
       <td><a href="https://adventjs.dev/es/challenges/2023/3" target="_blank">Ver</a></td>
     </tr>
+    <tr>
+      <td>04</td>
+      <td>Dale la vuelta a los paréntesis</td>
+      <td>Medio</td>
+      <td><a href="https://adventjs.dev/es/challenges/2023/4" target="_blank">Ver</a></td>
+    </tr>
+    <tr>
+      <td>05</td>
+      <td>El CyberTruck de Santa</td>
+      <td>Medio</td>
+      <td><a href="https://adventjs.dev/es/challenges/2023/5" target="_blank">Ver</a></td>
+    </tr>
   </tbody>
 </table>
 
