@@ -20,6 +20,6 @@ findNaughtyStep(original, modified) // ''
 
 A tener en cuenta:
 
--Siempre habrá un paso de diferencia o ninguno.
--La modificación puede ocurrir en cualquier lugar de la cadena.
--La secuencia original puede estar vacía
+- Siempre habrá un paso de diferencia o ninguno.
+- La modificación puede ocurrir en cualquier lugar de la cadena.
+- La secuencia original puede estar vacía
