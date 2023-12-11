@@ -50,13 +50,13 @@
     <tr>
       <td>06</td>
       <td>Los renos a prueba</td>
-      <td>Medio</td>
+      <td>Fácil</td>
       <td><a href="https://adventjs.dev/es/challenges/2023/6" target="_blank">Ver</a></td>
     </tr>
     <tr>
       <td>07</td>
       <td>Las cajas en 3D</td>
-      <td>Medio</td>
+      <td>Fácil</td>
       <td><a href="https://adventjs.dev/es/challenges/2023/7" target="_blank">Ver</a></td>
     </tr>
     <tr>
@@ -68,7 +68,7 @@
     <tr>
       <td>09</td>
       <td>Alterna las luces</td>
-      <td>Medio</td>
+      <td>Fácil</td>
       <td><a href="https://adventjs.dev/es/challenges/2023/9" target="_blank">Ver</a></td>
     </tr>
   </tbody>
