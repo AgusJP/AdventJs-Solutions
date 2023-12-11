@@ -47,6 +47,30 @@
       <td>Medio</td>
       <td><a href="https://adventjs.dev/es/challenges/2023/5" target="_blank">Ver</a></td>
     </tr>
+    <tr>
+      <td>06</td>
+      <td>Los renos a prueba</td>
+      <td>Medio</td>
+      <td><a href="https://adventjs.dev/es/challenges/2023/6" target="_blank">Ver</a></td>
+    </tr>
+    <tr>
+      <td>07</td>
+      <td>Las cajas en 3D</td>
+      <td>Medio</td>
+      <td><a href="https://adventjs.dev/es/challenges/2023/7" target="_blank">Ver</a></td>
+    </tr>
+    <tr>
+      <td>08</td>
+      <td>Ordenando el almacén</td>
+      <td>Medio</td>
+      <td><a href="https://adventjs.dev/es/challenges/2023/8" target="_blank">Ver</a></td>
+    </tr>
+    <tr>
+      <td>09</td>
+      <td>Alterna las luces</td>
+      <td>Medio</td>
+      <td><a href="https://adventjs.dev/es/challenges/2023/9" target="_blank">Ver</a></td>
+    </tr>
   </tbody>
 </table>
 
